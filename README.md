@@ -1,8 +1,8 @@
 # TabOrganizer
-A simple chrome extension to export all your open tabs in a window to a CSV file to come back to it later.
+A simple chrome extension to export all your open tabs(URLs) in a window to a CSV file to come back to it later.
 
 ## Motivation
-A keep a lot of chrome tabs open for reference later, maintaining a tab of all of them in my head so I can get back to my work faster. So, in order to not lose everything I have been working on at any point allows you to export out the tab list in CSV format. This way you have a list that you can paste into any spreadsheet and grab all the details you need.
+I keep a lot of chrome tabs open for reference later, maintaining a tab of all of them in my head so I can get back to my work faster. So, in order to not lose everything I have been working on at any point allows you to export out the tab list in CSV format. This way you have a list that you can paste into any spreadsheet and grab all the details you need.
 
 ## What does it do?
 Exports all URLs from all tabs to a CSV file where the first column holds the Group Name if inside a tab Group (YES chrome gives that functionality) and the second column hold the Tab URL. Then I close all my tabs and start with a clean slate
